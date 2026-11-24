@@ -25,7 +25,7 @@ Take control of a spaceship, destroy incoming asteroids, dodge debris, and survi
 
 - Unity
 - C#
-- Git and GitHub
+- GitHub
 
 ## Controls
 
